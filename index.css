@@ -10,6 +10,7 @@ button:hover{
     background-color: red;
     color: white;
     cursor: pointer;
+    cursor: pointer;
 }
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
